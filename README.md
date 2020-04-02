@@ -27,36 +27,30 @@ By the end of the lesson, the student should be able to:
 > 10 Minute Break
 > 30 Minute Hands On  
 
-- Example
-	- If I tell you XYZ 
-	- What about second example
-	- Again, situation here where formalise
-	- 2 or more variables with normal distribution and 2 classes 
-- Needed to Formalise 
-	- Gaussian Distribution
-	- Multivariate Guassian Distribution 
-	- Classes 
-	- Class Probabilites aka Prior 
-	- Create Gausian for both varibles (mean and sd for both variables) 
-	- Independence Assumption (multiply together to get MV gaussian) 
-	- Draw Example 
-	- End: How does this fit with Bayes from before?
-	- Double Plot with seaborn 
-- Running it in Python	
-	- Variable I
-	- Variable II
-	- Classes (also SNS plot) 
-	- New Point 
-	- Look at point with Variable I
-	- Look at point with Variable II 
-	- Varible I distance on X axis 
-	- Look at all 4 probability for EACH gaussian
-	- Add in Latex Math 
-	- First run model with Bayes formula as child
-	- Then put in as adult 
-	- Then use both of those probailities in computation
-- Hands On 
-- Exit Ticket 
+- Example (10 minutes) 
+	- Introduce Casino Scenario 
+	- Introduce Personas we want to classify  
+	- Review classification, ways to solve, external 
+	- Introduce data we will be using 
+- Review Bayes (10 minutes)
+	- Show math, explain not as important unless want to get into bayes
+	- Intutions is that using this take care of baseline 
+- Generative Models (10 minutes)
+	- Talk about Disciminative vs Generative
+	- Benefits of Scale
+	- Benefits of Simple 
+	- Benefits of small dataset 
+- Needed to Formalise (10 minutes)
+	- Walk thru example 
+- Break (10 minutes) 
+- Running it in Python	(20 minutes)
+	- See Notebook
+- Hands On (10 minutes)
+	- Boiler plate example
+	- Explain multiclass
+- Exit Ticket (10 minutes)
+	- 5 minutes take 
+	- 5 minutes review  
 
 
 ## Further Resources 
@@ -64,30 +58,3 @@ By the end of the lesson, the student should be able to:
 * [Walk Through with Math](https://www.youtube.com/watch?v=r1in0YNetG8)  
 * [Andrew Ng Walk Thru](https://www.youtube.com/watch?v=z5UQyCESW64)
 * [More Andrew Ng](https://www.youtube.com/watch?v=NFd0ZQk5bR4)
-
-## Notes
-
-* What is naive 
-
-* Generative Learning Example
-	- Scales well 
-	- Small datasets 
-	- Great for not over designing 
-	- Go to for classifier 
-	- Don't look at both classes and separate
-	- Start with one class, build model with what they look like
-	- Start with other class, build model with what they look like 
-	- Compare example to two models 
-	- Learns p(x|y) 
-	- What are features like conditioned on class 
-	- relies on priors (no information whatsoever) 
-	- Multiclass 
-
-* Discriminative vs Generative 
-	- Logistic Regression 
-	- Estimate probability of y directly 
-	- Learns p(y|x) "probability of y given x"
-
-
-
- 
