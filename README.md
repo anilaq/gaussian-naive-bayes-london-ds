@@ -22,10 +22,9 @@ By the end of the lesson, the student should be able to:
 
 ## Outline 
 
+Suggested lecture?
+
 > Lesson Time: 90 Minutes
-> 30 Minute Examples
-> 10 Minute Break
-> 30 Minute Hands On  
 
 - Example (10 minutes) 
 	- Introduce Casino Scenario 
