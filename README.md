@@ -20,6 +20,8 @@ By the end of the lesson, the student should be able to:
 * [ ] Pros and Cons of NBC 
 * [ ] Explain what is "naive" about Naive Bayes Classifiers  
 
+For more learning, see Further Resources below.
+
 ## Outline 
 
 Suggested lecture?
@@ -57,3 +59,4 @@ Suggested lecture?
 * [Walk Through with Math](https://www.youtube.com/watch?v=r1in0YNetG8)  
 * [Andrew Ng Walk Thru](https://www.youtube.com/watch?v=z5UQyCESW64)
 * [More Andrew Ng](https://www.youtube.com/watch?v=NFd0ZQk5bR4)
+* [Walk Thru with Text](https://www.gormanalysis.com/blog/introduction-to-naive-bayes/) 
