@@ -6,7 +6,7 @@ Materials for this lecture were originally developed by David John Baker.
 ## Materials
 
 * [Slides](https://docs.google.com/presentation/d/16ybI_0nQ-f4pdVrfma5k3JOr5I7HFYoIYK3CiJdU5mA/edit?usp=sharing)
-* [Exit Ticket]() 
+* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfAkhCKCyuUV6shzSWsZOl45eUSpOmq9-wASm5MQuQkkngUpg/viewform?usp=sf_link) 
 
 ## Learning Objectives 
 
@@ -22,7 +22,7 @@ By the end of the lesson, the student should be able to:
 
 For more learning, see Further Resources below.
 
-## Outline 
+## Outline 
 
 Suggested lecture?
 
